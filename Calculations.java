@@ -11,8 +11,8 @@ public class Calculations {
 		//member_B add the feature of subtracting x from y and print the result
 		
 		//member_C add the feature of dividing x by y and print the result
-		double divison = x/y;
-		system.out.println("The divison average is"+ divsion);
+		double div = x/y;
+		system.out.println("The divison average is"+ div);
 		//member_D add the feature of multiplying x by y and print the result
 		system.out.println("The Multipication of "+x+" and "+y+"is: "+(x*y));
 
